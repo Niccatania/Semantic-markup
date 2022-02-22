@@ -50,10 +50,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Paragraph font size */
 p {
     font-size: 16px;
 }
-
+/* Setting the size and position of the background/main page image */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,17 +63,17 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Used to positon the sections left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Used to positon the sections right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* This if for positioning of the sections underneath the main page image */
 .content {
     width: 75%;
     display: inline-block;
