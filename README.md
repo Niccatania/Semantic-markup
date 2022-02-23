@@ -10,10 +10,27 @@ Throughout this coding experience I learned more about making sites accessible a
 
 To edit code, download the index.html, and css stylesheet. Open in your prefered code editor.
 If you'd like to add to this code please contact me.
+ 
+
+## Usage
+  
+The CSS and HTML of the project:  
+  
+![CSS](Develop/assets/images/image_assets/CSS.png)
+  
+![HTML](Develop/assets/images/image_assets/HTML.png)
+  
+A preview of the website as is
+
+![Websitetop](Develop/assets/images/image_assets/Site%20top.png)
+  
+![Website_Middle](Develop/assets/images/image_assets/Site%20middle.png)
+  
+![Website_Footer](Develop/assets/images/image_assets/Site%20footer.png)
 
 
 ## Credits
 
-Orginal code recieved from John Young at the UW Coidng bootcamp
+Orginal code recieved from John Young at the UW Coding bootcamp
 
 
