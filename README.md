@@ -6,14 +6,37 @@ My goal for this project was to refactor the code to make it more accessible and
 Throughout this coding experience I learned more about making sites accessible and easier to navigate for users and computers. I also learned about commenting, and the placement of semantic elements and why they are so important. 
 
 
+## Website link
+
+https://niccatania.github.io/Semantic-markup/
+ 
 ## Installation
 
 To edit code, download the index.html, and css stylesheet. Open in your prefered code editor.
 If you'd like to add to this code please contact me.
+ 
+
+## Usage
+  
+The CSS and HTML of the project:  
+  
+![CSS](assets/images/image_assets/CSS.png)
+  
+![HTML](assets/images/image_assets/HTML.png)
+  
+A preview of the website as is
+
+![Websitetop](assets/images/image_assets/Site%20top.png)
+  
+![Website_Middle](assets/images/image_assets/Site%20middle.png)
+  
+![Website_Footer](assets/images/image_assets/Site%20footer.png)
 
 
 ## Credits
 
-Orginal code recieved from John Young at the UW Coidng bootcamp
+Orginal code recieved from John Young at the UW Coding bootcamp
+
+
 
 
